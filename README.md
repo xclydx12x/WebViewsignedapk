@@ -1,5 +1,5 @@
 # WebViewsignedapk
-The Unofficial release of the WebView Browser
+The Official release of the WebView Browser
 
 >>The WebView Browser is made by Melvin Jones Gallano Repol
 Copyright © 2020 DROID MJ
